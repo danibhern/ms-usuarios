@@ -1,11 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="cbe48b8c-1b01-48d3-b224-d5c223c91779" name="Changes" comment="" />
+    <list default="true" id="cbe48b8c-1b01-48d3-b224-d5c223c91779" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ms-donaciones/demo/src/main/java/com/donaton/demo/Model/CategoriaDonacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-donaciones/demo/src/main/java/com/donaton/demo/Model/CentroAcopio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-donaciones/demo/src/main/java/com/donaton/demo/Model/Donacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-donaciones/demo/src/main/java/com/donaton/demo/Model/EstadoDonacion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -19,13 +36,17 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/danibhern/donaton-backend.git&quot;,
-    &quot;accountId&quot;: &quot;ffa63444-bc0c-4c23-a5f0-35a7d21a5cab&quot;
+    &quot;accountId&quot;: &quot;f57a9b91-319e-49f9-a5eb-912c3be07bc1&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="3D8ZxxwDNkU7KMbVR4ALdB0NWK3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -35,11 +56,20 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "feature/ms-usuarios-base",
+    "git-widget-placeholder": "feature/ms-donaciones-base",
     "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\yesen\OneDrive\Desktop\donaton-backendd\ms-donaciones\demo\src\main\java\com" />
+      <recent name="C:\Users\yesen\OneDrive\Desktop\donaton-backendd\ms-donaciones" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="donaton-backend" />
@@ -53,14 +83,7 @@
       <method v="2" />
     </configuration>
   </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.26199.169" />
-        <option value="bundled-js-predefined-d6986cc7102b-9c94529fcfe0-JavaScript-IU-252.26199.169" />
-      </set>
-    </attachedChunks>
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="cbe48b8c-1b01-48d3-b224-d5c223c91779" name="Changes" comment="" />
@@ -75,5 +98,16 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
