@@ -12,10 +12,11 @@ public interface DonacionService {
 
     List<DonacionResponseDTO> listarTodas();
 
-    DonacionResponseDTO obtenerPorId (Long id);
+    DonacionResponseDTO obtenerPorId(Long id);
 
     List<DonacionResponseDTO> listarPorCategoria(CategoriaDonacion categoria);
 
     List<DonacionResponseDTO> listarPorEstado(EstadoDonacion estado);
 
     List<DonacionResponseDTO> listarPorDonador(Long donadorId);
+}
