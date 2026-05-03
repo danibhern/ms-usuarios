@@ -29,26 +29,29 @@ public class Donacion {
     private String unidad;
 
     @Column(nullable = false)
+    private String origen;
+
+    @Column(nullable = false)
     private LocalDate fecha;
 
     @Enumerated(EnumType.STRING)
     @Column(nullable = false)
-    private EstadoDonacion donacion;
+    private EstadoDonacion estado;
 
     @ManyToOne(fetch = FetchType.LAZY)
     @JoinColumn(name = "IdCentro")
     private CentroAcopio centroAcopio;
 
-    @Column(name = "userId ",nullable = false)
-    private Long userId;
+    private Long donadorId;
+
 
     @PrePersist
     protected void onCreate(){
         if (this.fecha==null){
             this.fecha=LocalDate.now();
         }
-        if (this.donacion== null) {
-            this.donacion = EstadoDonacion.RECIBIDA;
+        if (this.estado== null) {
+            this.estado = EstadoDonacion.RECIBIDA;
         }
     }
 
