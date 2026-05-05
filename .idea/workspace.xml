@@ -5,19 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cbe48b8c-1b01-48d3-b224-d5c223c91779" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ms-donaciones/demo/src/main/java/com/donaton/demo/Controller/CentroAcopioController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ms-donaciones/demo/src/main/java/com/donaton/demo/Controller/DonacionController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ms-donaciones/demo/src/main/java/com/donaton/demo/Exception/DonacionNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ms-donaciones/demo/src/main/java/com/donaton/demo/Exception/GlobalExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ms-donaciones/demo/src/main/java/com/donaton/demo/Service/CentroAcopioService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ms-donaciones/demo/src/main/java/com/donaton/demo/Service/CentroAcopioServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ms-donaciones/demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ms-donaciones/demo/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ms-donaciones/demo/src/main/java/com/donaton/demo/DTO/AcopioRequestDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/ms-donaciones/demo/src/main/java/com/donaton/demo/DTO/AcopioRequestDTO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ms-donaciones/demo/src/main/java/com/donaton/demo/Repository/DonacionRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/ms-donaciones/demo/src/main/java/com/donaton/demo/Repository/DonacionRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ms-donaciones/demo/src/main/java/com/donaton/demo/Service/DonacionService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ms-donaciones/demo/src/main/java/com/donaton/demo/Service/DonacionService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ms-donaciones/demo/src/main/java/com/donaton/demo/Service/DonacionServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/ms-donaciones/demo/src/main/java/com/donaton/demo/Service/DonacionServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ms-donaciones/demo/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ms-donaciones/demo/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
